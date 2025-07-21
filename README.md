@@ -65,11 +65,6 @@ INSERT INTO Books VALUES
 
 ---
 
-## 🧩 ER Diagram
-
-![ER Diagram](er-diagram.png)
-
----
 
 ## 🚀 How to Run This Project
 
